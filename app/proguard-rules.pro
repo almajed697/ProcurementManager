@@ -1,0 +1,5 @@
+-keep class com.procurement.manager.data.local.entity.** { *; }
+-keep class com.itextpdf.** { *; }
+-dontwarn com.itextpdf.**
+-dontwarn org.bouncycastle.**
+-keep class org.bouncycastle.** { *; }

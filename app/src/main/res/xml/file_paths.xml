@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <files-path name="receipts_images" path="receipts/" />
+    <cache-path name="cache_images" path="." />
+    <external-files-path name="external_files" path="." />
+</paths>
